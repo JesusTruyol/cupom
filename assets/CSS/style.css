@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+/* Tipografía */
+.card-title, .card-text, .card-address, .previous, .form-name, .form-email, .footer p {
+    font-family: "Roboto", light;
+    font-weight: 300;
+  }
+  .actual, .btn, .form-title {
+    font-family: Roboto, Medium;
+    font-weight: 500;
+  }
+/* color de letras */
+.card-text, .card-address, .previous, .footer p {
+    color: #707070;
+}
+
+/* Menu */
+.navbar-color, .form-color{
+  background-color: #28a745;
+}
+
+.logo-white {
+  width: 86px;
+}
+
+/* Card */
+
+.card-body p {
+  margin-bottom: 2px;
+}
+
+
+
+.card-title {
+  margin-bottom: 11px;
+  font-size: 20px;
+}
+
+.card-address {
+  font-size: 13px;
+}
+
+.price p {
+  display: inline-block;
+}
+
+.actual {
+  margin-right: 7px;
+  color: #28a745;
+  font-size: 20px;
+}
+
+.previous {
+  margin-right: 11px;
+}
+
+/* formulario */
+
+.form-title {
+  font-size: 21px;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+
+.form-name {
+  margin-top: 15px;
+  border-color: #707070;
+}
+
+.form-email {
+  margin-top: 14px;
+  margin-bottom: 14px;
+  border-color: #707070;
+}
+
+.btn {
+  width: 112px;
+  height: 40px;
+  margin-bottom: 29px;
+}
+
+/* Footer */
+.logo-black {
+  width: 84px;
+  margin-top: 24px;
+}
+
+.footer p {
+  margin: 10px 21px 22px 21px;
+}
